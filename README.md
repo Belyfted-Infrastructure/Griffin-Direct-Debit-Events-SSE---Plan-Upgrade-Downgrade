@@ -257,6 +257,10 @@ queryClient.invalidateQueries({ queryKey: ['plans'] });
 
 Adjust keys to match your Orval-generated query key factories.
 
+## Mobile(Fluter)
+- Flutter HTTP Server-Sent Events (SSE) client library for receive real-time updates from the server
+- [https://pub.dev/packages/flutter_http_sse](https://pub.dev/packages/flutter_http_sse)
+
 ## CORS
 
 Ensure the API allows:
